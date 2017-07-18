@@ -6,7 +6,7 @@ Checkout the original [`listr-update-renderer`](https://github.com/SamVerschuere
 ## Install
 
 ```
-$ npm install --save listr-multi-renderer
+$ npm install --save listr-multiline-renderer
 ```
 
 ## Usage
