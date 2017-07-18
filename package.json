@@ -1,13 +1,13 @@
 {
-  "name": "listr-update-renderer",
+  "name": "listr-multiline-renderer",
   "version": "0.4.0",
   "description": "Listr update renderer",
   "license": "MIT",
-  "repository": "SamVerschueren/listr-update-renderer",
+  "repository": "entwicklerstube/listr-multiline-renderer",
   "author": {
     "name": "Sam Verschueren",
     "email": "sam.verschueren@gmail.com",
-    "url": "github.com/SamVerschueren"
+    "url": "github.com/entwicklerstube"
   },
   "engines": {
     "node": ">=4"
