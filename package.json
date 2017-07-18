@@ -1,6 +1,6 @@
 {
   "name": "listr-multiline-renderer",
-  "version": "0.4.0",
+  "version": "1.0.0",
   "description": "Listr update renderer",
   "license": "MIT",
   "repository": "entwicklerstube/listr-multiline-renderer",
