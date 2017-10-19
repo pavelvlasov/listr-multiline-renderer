@@ -1,12 +1,12 @@
 {
   "name": "listr-multiline-renderer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Listr update renderer",
   "license": "MIT",
   "repository": "entwicklerstube/listr-multiline-renderer",
   "author": {
-    "name": "Sam Verschueren",
-    "email": "sam.verschueren@gmail.com",
+    "name": "Michael J. Zoidl",
+    "email": "github@michaelzoidl.com",
     "url": "github.com/entwicklerstube"
   },
   "engines": {
